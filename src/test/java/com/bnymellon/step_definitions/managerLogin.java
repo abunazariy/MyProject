@@ -1,2 +1,4 @@
-package com.bnymellon.step_definitions;public class managerLogin {
+package com.bnymellon.step_definitions;
+
+public class managerLogin {
 }
